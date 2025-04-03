@@ -4,7 +4,6 @@
 ### Workout
 - Gym/Fitness Centers:
   - Third Space
-  - Virgin Active
 - Workout Programs/Apps:
   - Apple Fitness
 - Equipment:
@@ -48,7 +47,7 @@
   - Google Calendar
   - Apple Calendar
 - Development:
-  - Editor: Windsurf
+  - Editor: Cursor
 - Browser:
   - Chrome
 
@@ -61,6 +60,9 @@
 ### Personal Development
 - Books:
 - Podcasts:
+  - Modern Wisdom
+  - All In
+  - Flagrant
 - Courses:
 - Newsletters:
 
@@ -75,8 +77,8 @@
 - Gaming:
 
 ### News & Information
-- Perplexity.ai/discover (AI-powered news discovery)
 - X.com (social media news and trends)
+- Perplexity.ai/discover (AI-powered news discovery)
 
 ### Content Creation
 - Hardware:
@@ -132,6 +134,7 @@
 - Wallets:
   - Phantom (Solana)
   - Backpack (Solana)
+  - Coinbase Wallet
 
 ### Tools
 - Budgeting Apps:
